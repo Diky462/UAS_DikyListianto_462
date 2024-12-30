@@ -1,0 +1,5 @@
+package com.example.piranti
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
